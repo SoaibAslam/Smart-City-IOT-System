@@ -32,7 +32,8 @@ def get_data():
 # Route for homepage
 @app.route('/')
 def index():
-    return render_template('C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Smart City IOT System\\Smart-City-IOT-System\\templates\\index.html')
+    return render_template('index.html')
+
 
 # Run app
 if __name__ == '__main__':
