@@ -146,7 +146,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 *for Quit click ctrl+c*
 
 
+[GitHub Profile](https://github.com/SoaibAslam/Smart-City-IOT-System)
 
-GITHUB : https://github.com/SoaibAslam/Smart-City-IOT-System
 
 
