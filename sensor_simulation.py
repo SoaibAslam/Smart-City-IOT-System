@@ -5,7 +5,7 @@ import time
 
 def simulate_sensor_data():
     while True:
-        conn = sqlite3.connect('C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Smart City IOT System\\database.db')
+        conn = sqlite3.connect('C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Smart City IOT System\\Smart-City-IOT-System\\database.db')
         cursor = conn.cursor()
         temperature = random.uniform(15, 30)
         air_quality = random.uniform(50, 100)
