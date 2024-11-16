@@ -136,7 +136,15 @@ real-time data effectively.
 ### License
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
-GIYHUB : https://github.com/SoaibAslam/Smart-City-IOT-System
 
+### For Run code use step
+
+*new terminal : cd folder name then Ok after that python app.py then Ok go to like this http://127.0.0.1:5000/*
+*again new terminal : cd folder name then Ok after that python sensor_simulation.py*
+*for Quit click ctrl+c*
+
+
+
+GIYHUB : https://github.com/SoaibAslam/Smart-City-IOT-System
 
 

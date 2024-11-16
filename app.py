@@ -39,9 +39,3 @@ def index():
 if __name__ == '__main__':
     init_db()
     app.run(debug=True)
-
-
-# run Code 
-# new terminal : python app.py then go to like this http://127.0.0.1:5000/
-# again new terminal : python sensor_simulation.py
-
